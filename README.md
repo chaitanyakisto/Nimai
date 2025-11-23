@@ -6,7 +6,7 @@ Official website for Nimai Trading Ltd, a leading supplier of packaging and labe
 This repository contains the source code for the official website of **Nimai Trading Ltd**, a premier supplier of industrial packaging and labeling solutions based in Mauritius.
 
 ![Nimai Trading Ltd](https://img.shields.io/badge/Status-In%20Development-blue)
-![GitHub](https://img.shields.io/github/license/your-username/nimai-trading-website)
+![GitHub](https://img.shields.io/github/license/chaitanyak1708/Nimai)
 
 ## 🚀 About The Project
 
